@@ -51,10 +51,5 @@ print(correct_word("hte"))  # Expected output: "the"
 - Expand to support multiple languages.
 - Integrate real-time text correction into applications.
 
-## Contributors
-- **Your Name**
-- Contributions are welcome! Feel free to submit issues or pull requests.
 
-## License
-This project is released under the MIT License.
 
